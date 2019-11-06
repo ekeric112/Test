@@ -12,4 +12,5 @@ int main() {
 
 void firstMethod(){
     cout << "Now I just have a function!\n";
+    cout << "Now imma push it\n";
 }
